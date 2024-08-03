@@ -23,7 +23,7 @@ Danny has shared with you 3 key datasets for this case study:
 You can inspect the entity relationship diagram and example data below.
 
 ## Entity Relationship Diagram
-![Entity Relationship Diagram](path-to-your-image/entity-relationship-diagram.png)
+![Entity Relationship Diagram]([https://raw.githubusercontent.com/Merlinvalanarasu/SQL_Project/main/Relationship_Diagram.png])
 
 ## Example Datasets
 All datasets exist within the `dannys_diner` database schema - be sure to include this reference within your SQL scripts as you start exploring the data and answering the case study questions.
