@@ -1,6 +1,6 @@
 # Danny's Diner SQL Case Study
 
-![Danny's Diner](path-to-your-image/dannys-diner-banner.jpg)
+![Danny's Diner](https://raw.githubusercontent.com/Merlinvalanarasu/SQL_Project/main/Dannys_Dinner.png)
 
 ## Introduction
 Danny seriously loves Japanese food so at the beginning of 2021, he decided to embark upon a risky venture and opened up a cute little restaurant that sells his 3 favourite foods: sushi, curry, and ramen.
